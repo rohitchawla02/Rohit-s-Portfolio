@@ -208,7 +208,17 @@
     transition: 0.3s;
 }
 
+.fa-brands{
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-left: 38rem;
+}
 
+.fa-brands:hover{
+    background-color: #E6ECF8;
+    transition: 0.5s;
+}
 
 
 
